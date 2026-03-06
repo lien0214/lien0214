@@ -1,8 +1,7 @@
 <h1 align="center">Yi-Wei Lien</h1>
 
-<p align="center">
-  <video src="./src/media/Avatar.mp4" width="300" autoplay muted loop playsinline></video>
-</p>
+https://github.com/user-attachments/assets/4269f0ba-4c92-46e1-92ae-2cb956b7765a
+
 
 <p align="center">
   B.S., Computer Science, National Taiwan University (2021-2025, Graduated)<br/>
