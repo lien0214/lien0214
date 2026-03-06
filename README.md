@@ -1,7 +1,14 @@
-<h1 align="center">Yi-Wei Lien</h1>
+<h1 align="center">Hola! I'm Yi-Wei Lien</h1>
 
-https://github.com/user-attachments/assets/4269f0ba-4c92-46e1-92ae-2cb956b7765a
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/4269f0ba-4c92-46e1-92ae-2cb956b7765a" 
+         autoplay 
+         loop 
+         muted 
+         playsinline 
+         width="100%">
+  </video>
+</p>
 
 <p align="center">
   B.S., Computer Science, National Taiwan University (2021-2025, Graduated)<br/>
@@ -67,5 +74,3 @@ https://github.com/user-attachments/assets/4269f0ba-4c92-46e1-92ae-2cb956b7765a
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="scikit-learn" title="scikit-learn" />
 </p>
-
----
