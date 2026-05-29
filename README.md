@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lien0214.github.io/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" height="14" style="vertical-align:middle;" /> Personal Page</a> |
   <a href="https://www.linkedin.com/in/yi-wei-lien/">LinkedIn</a> |
   <a href="mailto:ted20030214@gmail.com">ted20030214@gmail.com</a>
 </p>
